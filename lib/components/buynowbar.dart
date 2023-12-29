@@ -86,7 +86,7 @@ class OrderBar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       height: 100,
-      width: 300,
+      width: 350,
       padding: const EdgeInsets.all(20),
       decoration: const BoxDecoration(
         color: Color.fromRGBO(0, 255, 191, 0.601),
